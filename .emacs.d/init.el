@@ -5,7 +5,9 @@
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
 (setq-default TeX-engine 'xetex)
-    
+
+(custom-set-variables '(TeX-source-correlate-method (quote synctex)) '(TeX-source-correlate-mode t) '(TeX-source-correlate-start-server t) '(TeX-view-program-list (quote (("Sumatra PDF" "\"C:/Program Files (x86)/SumatraPDF/SumatraPDF.exe\" -reuse-instance %o")))))(custom-set-faces)
+(setq TeX-view-program-selection '((output-pdf "SumatraPDF")))
 ;; correlate
 (setq TeX-source-correlate-mode t)
 
