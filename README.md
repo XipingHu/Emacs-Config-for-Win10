@@ -7,6 +7,8 @@
 - CDLaTeX
 - YASnippet
 - yasnippet-snippets
+- auto-complete
+- ac-math
 
 ## 已配置选项
 - [清华大学镜像站](https://mirror.tuna.tsinghua.edu.cn/help/elpa/)
