@@ -10,7 +10,7 @@
 
 ## 已配置选项
 - [清华大学镜像站](https://mirror.tuna.tsinghua.edu.cn/help/elpa/)
-- hunspell拼写检查(按`M-$`进行检查)
+- hunspell拼写检查(按`M-x ispell-buffer`进行检查)
 
 ## 使用教程
 详见我的GitHub [点击跳转](https://github.com/XipingHu/Emacs-Win10-Install-Guide)
