@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: fi
+# key: fi
+# --
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.${1:size}\linewidth]{figures/${2:path.pdf}}
+  \caption{$2}
+  \label{fig:$3}
+\end{figure}
+$0
