@@ -19,6 +19,7 @@
  '(TeX-view-program-list
    (quote
     (("Sumatra PDF" "\"C:/Program Files (x86)/SumatraPDF/SumatraPDF.exe\" -reuse-instance %o"))))
+ '(ispell-personal-dictionary "~/.emacs.d/dict/dict.txt")
  '(package-archives
    (quote
     (("GNU ELPA" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
