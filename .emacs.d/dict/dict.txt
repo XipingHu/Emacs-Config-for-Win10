@@ -1,2 +1,4 @@
 Xiping
 Hu
+paperheight
+paperwidth
