@@ -16,6 +16,7 @@
   - 按`M-x ispell-buffer`全缓冲区进行检查
   - 对着单个单词`M-$`进行候选词替换或者将词加入词典，详情请根据提示按`C-h`
   - 词库放在了 `<Emacs配置文件目录>/dict/dict.txt`
+- Hack字体
 
 ## 使用教程
 详见我的GitHub [点击跳转](https://github.com/XipingHu/Emacs-Win10-Install-Guide)

@@ -62,6 +62,9 @@
 (setq package-check-signature nil)
 
 ;; Set default directory to Desktop (Change it to your username)
-(setq command-line-default-directory "C:/Users/%USERNAME%/Desktop")
+(setq command-line-default-directory "C:/Users/hxp/Desktop")
+
+;; Set font
+(set-frame-font "hack" nil t)
 
 
